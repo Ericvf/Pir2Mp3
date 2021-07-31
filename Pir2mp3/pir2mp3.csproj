@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{25545752-0C8D-4E49-AE49-722BA6AA2697}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ReneWitlox</RootNamespace>
-    <AssemblyName>ReneWitlox</AssemblyName>
+    <RootNamespace>Pir2mp3</RootNamespace>
+    <AssemblyName>Pir2mp3</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

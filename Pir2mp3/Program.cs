@@ -4,7 +4,7 @@ using System.Media;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace ReneWitlox
+namespace Pir2mp3
 {
     class Program
     {

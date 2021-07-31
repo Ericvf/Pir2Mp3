@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReneWitlox", "ReneWitlox\ReneWitlox.csproj", "{25545752-0C8D-4E49-AE49-722BA6AA2697}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pir2mp3", "Pir2mp3\pir2mp3.csproj", "{25545752-0C8D-4E49-AE49-722BA6AA2697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

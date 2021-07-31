@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO.Ports;
 
-namespace ReneWitlox
+namespace Pir2mp3
 {
     public class ArduinoSerial
     {
